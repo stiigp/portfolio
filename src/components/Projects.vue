@@ -14,7 +14,7 @@ const projects = [
         description: 'An artificial neural network (specifically a multi-layered perceptron) built from scratch using Java',
         technologies: ['Java', 'Machine Learning', 'Spring Boot', 'Server-Sent Events', 'React'],
         github: 'https://github.com/stiigp/mlp-java/',
-        live: null
+        live: 'https://mlp.panucci.cloud'
     },
     {
         title: 'Titanic Kaggle Competition',

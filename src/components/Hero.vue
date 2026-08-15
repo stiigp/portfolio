@@ -13,13 +13,13 @@ const scrollToContent = () => {
     <section class="min-h-screen flex items-center justify-center px-6 py-20">
       <div class="max-w-4xl w-full">
         <div class="space-y-6 text-center flex flex-col items-center">
-          <h1 class="animating-name text-5xl md:text-7xl font-bold text-white">
+          <h1 class="animating-name text-5xl md:text-7xl font-bold text-white w-full">
             Lucas <span class="text-red-600">Panucci</span>
           </h1>
-          <h2 class="animating-ft w-113 text-2xl md:text-3xl text-gray-400">
+          <h2 class="animating-ft text-2xl md:text-3xl text-gray-400 w-full max-w-full sm:max-w-2xl mx-auto">
             CS Student: Development & Data
           </h2>
-          <p class="animating-st text-lg text-gray-300">
+          <p class="animating-st text-lg text-gray-300 w-full max-w-full">
             Passionate developer with particular interest for Backend solutions and Data/Machine Learning
           </p>
           <div class="flex gap-4 pt-4 justify-center">
